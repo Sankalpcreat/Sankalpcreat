@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js, JavaScript, TypeScript<br><br>📝 I regularly write articles on https://dev.to/sankalpcreat<br><br>💬 Ask me about React.js, JavaScript, Node.js, MongoDB, Java, Docker, OpenAI, Replica AI<br><br>📫 How to reach me singhsankalp997@gmail.com<br><br>
+🌱 I’m currently learning React.js, JavaScript,Express,Docker,Nextjs<br><br>📝 I regularly write articles on https://dev.to/sankalpcreat<br><br>💬 Ask me about React.js, JavaScript, Node.js, MongoDB, Java, Docker, OpenAI, Replica AI<br><br>📫 How to reach me singhsankalp997@gmail.com<br><br>
 
 
 ## 🌐 Socials:
