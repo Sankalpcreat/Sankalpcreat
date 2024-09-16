@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpcreat&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpcreat" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Javascript,Typescript**
+- 🌱 I’m currently learning **React.js, JavaScript, TypeScript**
 
 - 📝 I regularly write articles on [https://dev.to/sankalpcreat](https://dev.to/sankalpcreat)
 
-- 💬 Ask me about **reactjs,javascript,Nodejs,Mongodb,Java,Docker**
+- 💬 Ask me about **React.js, JavaScript, Node.js, MongoDB, Java, Docker, OpenAI, Replica AI**
 
 - 📫 How to reach me **singhsankalp997@gmail.com**
 
@@ -46,20 +46,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpcreat&show_icons=true&locale=en&layout=compact" alt="sankalpcreat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpcreat&show_icons=true&locale=en" alt="sankalpcreat" /></p>
-This updated version includes the requested technologies and their corresponding icons, such as Node.js, Express, MongoDB, PostgreSQL, OpenAI, Replica AI, Docker, and AWS. You
-
-
-
-
-
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpcreat&show_icons=true&locale=en&layout=compact" alt="sankalpcreat" /></p>
 
