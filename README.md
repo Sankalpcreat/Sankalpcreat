@@ -1,6 +1,11 @@
-# 💫 About Me:
-🌱 I’m currently learning Langchain,Python,LLM,React.js,Typescript,Express,Docker,Nextjs<br><br>📝 I regularly write articles on https://dev.to/sankalpcreat<br><br>💬 Ask me about Python,React.js, JavaScript,Node.js, MongoDB, Java, Docker, OpenAI, Replica AI<br><br>📫 How to reach me singhsankalp997@gmail.com<br><br>
+💫 About Me
 
+🌟 Aspiring developer with a passion for cutting-edge technologies and problem-solving.
+🌱 Currently diving into:
+LangChain, Python, LLM, React.js, TypeScript, Express, Docker, Next.js.<br><br>📝 I regularly write articles on https://dev.to/sankalpcreat<br><br>💬 Let’s Talk About:
+Python, React.js, JavaScript, Node.js, MongoDB, Java, Docker, OpenAI, and Replica AI.
+Feel free to reach out with any questions or collaboration opportunities!<br><br>📫 How to Reach Me:
+Drop me an email at singhsankalp997@gmail.com.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalpsingh03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@3sankalpsingh) 
@@ -50,6 +55,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sankalpcreat&theme=dark&hide_border=false&background=45,1e3a5f,283e63,1a5276&stroke=d1e8ff&ring=00d4ff&fire=00d4ff&currStreakNum=d1e8ff&sideNums=d1e8ff&currStreakLabel=00d4ff&sideLabels=d1e8ff&dates=d1e8ff)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpcreat&theme=dark&hide_border=false&bg_color=45,1e3a5f,283e63,1a5276&title_color=00d4ff&text_color=d1e8ff&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Sankalpcreat&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sankalpcreat&label=Profile%20Visits&icon=5&pretty=true&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
