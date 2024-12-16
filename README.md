@@ -99,10 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpcreat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpcreat&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
@@ -111,9 +108,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <h3>💰 You can support my work</h3>
-  <a href="https://www.buymeacoffee.com/sankalpsingh">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
-  </a>
-</div>
+
