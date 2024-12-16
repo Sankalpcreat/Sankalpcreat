@@ -1,60 +1,119 @@
-💫 About Me
+# <div align="center">👋 Hi, I'm Sankalp Singh</div>
 
-🌟 Aspiring developer with a passion for cutting-edge technologies and problem-solving.
-🌱 Currently diving into:
-LangChain, Python, LLM, React.js, TypeScript, Express, Docker, Next.js.<br><br>📝 I regularly write articles on https://dev.to/sankalpcreat<br><br>💬 Let’s Talk About:
-Python, React.js, JavaScript, Node.js, MongoDB, Java, Docker, OpenAI, and Replica AI.
-Feel free to reach out with any questions or collaboration opportunities!<br><br>📫 How to Reach Me:
-Drop me an email at singhsankalp997@gmail.com.<br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalpsingh03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@3sankalpsingh) 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Sankalpcreat?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sankalpcreat?label=Stars&style=social" alt="GitHub stars" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Sankalpcreat&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
+</div>
 
-## 🖥️ Programming Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 💫 About Me
 
-## 🎨 Frontend Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## ⚙️ Backend Frameworks & Tools
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- 🚀 I'm currently working on **AI-powered Applications**
+- 🌱 Learning **LangChain**, **LLMs**, and **Advanced React Patterns**
+- 💬 Ask me about **Python**, **React**, **Node.js**, **AI/ML**
+- 📫 Reach me at **singhsankalp997@gmail.com**
+- ⚡ Fun fact: I love exploring new tech stacks and building cool stuff
+- 🌐 Check out my blog: [dev.to/sankalpcreat](https://dev.to/sankalpcreat)
 
-## 📊 Data & Visualization
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<br/>
 
-## 🛠️ DevOps & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🌐 Connect With Me
+<div align="left">
+  <a href="https://linkedin.com/in/sankalpsingh03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/@3sankalpsingh" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://dev.to/sankalpcreat" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdot.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
 
-## 🗄️ Databases
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=prisma&logoColor=white)
+## 💻 Tech Stack
 
-## 🧰 Tools & Utilities
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sankalpcreat&theme=dark&hide_border=false&bg_color=45,1e3a5f,283e63,1a5276&title_color=00d4ff&text_color=d1e8ff&icon_color=00d4ff&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sankalpcreat&theme=dark&hide_border=false&background=45,1e3a5f,283e63,1a5276&stroke=d1e8ff&ring=00d4ff&fire=00d4ff&currStreakNum=d1e8ff&sideNums=d1e8ff&currStreakLabel=00d4ff&sideLabels=d1e8ff&dates=d1e8ff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpcreat&theme=dark&hide_border=false&bg_color=45,1e3a5f,283e63,1a5276&title_color=00d4ff&text_color=d1e8ff&layout=compact)
+<details open>
+<summary>Languages</summary>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+</details>
+
+<details open>
+<summary>Frontend Development</summary>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</div>
+</details>
+
+<details open>
+<summary>Backend Development</summary>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+</div>
+</details>
+
+<details open>
+<summary>DevOps & Cloud</summary>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
+</details>
+
+<details open>
+<summary>Databases</summary>
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpcreat&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpcreat&theme=react&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpcreat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpcreat&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Sankalpcreat&label=Profile%20Visits&icon=5&pretty=true&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>🎯 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h3>💰 You can support my work</h3>
+  <a href="https://www.buymeacoffee.com/sankalpsingh">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  </a>
+</div>
