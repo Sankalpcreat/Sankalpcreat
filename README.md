@@ -7,5 +7,6 @@ Currently working on:
 - AI agents
 - CLI developer tools
 
-Recent CLI TOOL FOR SLACK 
+CLI FOR SLACK
+
 https://github.com/Sankalpcreat/Slack-Cli
