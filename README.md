@@ -7,4 +7,4 @@ Currently working on:
 - CLI developer tools
 
 - :seedling: [Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
-- :card_file_box: [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from CLI.
+- :card_file_box: [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from Terminal.
