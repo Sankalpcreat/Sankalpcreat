@@ -6,8 +6,5 @@ Currently working on:
 - AI agents
 - CLI developer tools
 
-## CLI FOR SLACK
-https://github.com/Sankalpcreat/Slack-Cli
-
-## CLI FOR NOTION
-https://github.com/Sankalpcreat/Notion-CLI
+- ⚡ [Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
+- 🧠 [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from CLI.
