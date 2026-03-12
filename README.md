@@ -10,7 +10,4 @@ Currently working on:
 https://github.com/Sankalpcreat/Slack-Cli
 
 ## CLI FOR NOTION
-
-![Notion CLI Banner](https://raw.githubusercontent.com/Sankalpcreat/Notion-CLI/main/assets/notion-cli-banner.png)
-
 https://github.com/Sankalpcreat/Notion-CLI
