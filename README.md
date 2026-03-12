@@ -6,5 +6,5 @@ Currently working on:
 - AI agents
 - CLI developer tools
 
-- :seedling:[Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
-- :card_file_box:[Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from CLI.
+- :seedling: [Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
+- :card_file_box: [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from CLI.
