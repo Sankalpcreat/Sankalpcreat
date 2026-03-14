@@ -12,4 +12,4 @@ Currently working on:
 
 - 🌱 [Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
 - 🗂️ [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from Terminal.
-- 🍎 [Apple CLI](https://github.com/Sankalpcreat/Apple-CLI)-Native Apple apps like Notes,Reminder,Calander,Message can used from Terminal
+- 🍎 [Apple CLI](https://github.com/Sankalpcreat/Apple-CLI) — Native Apple apps like Notes,Reminder,Calander,Message can used from Terminal
