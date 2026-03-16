@@ -14,3 +14,10 @@ Currently working on:
 - 🗂️ [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from Terminal.
 - 🍎 [Apple CLI](https://github.com/Sankalpcreat/Apple-CLI) — Native Apple apps like Notes,Reminder,Calander,Message can used from Terminal.
 - 🔳  [TSwarm](https://t.prodflow.in/) — Launch Unlimited Terminal inside Canvas and use claude code , Codex , Gemini or any CLI tool.
+
+## Mobile apps
+
+-  [Snaplearn](https://apps.apple.com/ca/app/snaplearn-smart-noter-ai/id6755807968) — Snap Notes and Get Infographics Picture.
+-  [RouteReel](https://apps.apple.com/ca/app/travel-map-tracker-routereel/id6754317307) — Share Travel Reel from social media and get correct location.
+
+
