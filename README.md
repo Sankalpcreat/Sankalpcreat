@@ -3,7 +3,7 @@ Building Agent and Training System
 Currently working on:
 
 - State of RL for reasoning
-- AI agents
+- Kernal agents
 - CLI developer tools
 
 ---
