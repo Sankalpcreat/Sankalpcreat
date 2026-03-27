@@ -17,7 +17,7 @@ Currently working on:
 
 ## Desktop
 
--  [Luminary](https://app.prodflow.in/) — Control Mac with Voice.Less Typing More Speaking.
+-  [Luminary](https://app.prodflow.in/) — Control Mac with all models .
 
 ## Mobile
 
