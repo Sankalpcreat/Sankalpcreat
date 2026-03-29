@@ -18,7 +18,7 @@ Currently working on:
 ## Desktop
 
 -  [Luminary](https://app.prodflow.in/) — Multiagentic system.Control Mac with all models.
--  [Lio](https://lio.prodflow.in/) — Voice control your Slack,Notion and Apple apps.
+-  [Lio](https://lio.prodflow.in/) — Run your workspace with voice.
 
 ## Mobile
 
