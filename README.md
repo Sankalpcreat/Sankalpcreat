@@ -17,6 +17,8 @@ Currently working on:
 -  [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from Terminal.
 -  [Apple CLI](https://github.com/Sankalpcreat/Apple-CLI) — Native Apple apps like Notes,Reminder,Calander,Message can used from Terminal.
 -  [Luminary](https://app.prodflow.in/) — Multiagentic system.Control Mac with all models.
+  
+  ## Mobile apps
 -  [Snaplearn](https://apps.apple.com/ca/app/snaplearn-smart-noter-ai/id6755807968) — Snap Notes and Get Infographics Picture.
 -  [RouteReel](https://apps.apple.com/ca/app/travel-map-tracker-routereel/id6754317307) — Share Travel Reel from social media and get correct location.
 -  [AURA](https://apps.apple.com/ca/app/aura-outfit-maker/id6752255723) — Upload your clothes and dress up question what to wear (vector image embedding).
