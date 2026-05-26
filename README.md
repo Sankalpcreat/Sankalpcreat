@@ -4,9 +4,12 @@ Currently working on:
 
 - State of RL for reasoning
 - autoresearch agents
-- CLI developer tools
+- Self Improving systems
 
 ---
+## AGENT SYSTEM
+
+-  [Collections Agents](https://github.com/Sankalpcreat/self-evvole-ai-agents) — Self evolving agent system checking evals(macro and low), compact handoffs,rollback, meta-evaluator .
 
 ## Current Projects
 
