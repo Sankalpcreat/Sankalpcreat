@@ -3,7 +3,7 @@ Building Agent and Training System
 Currently working on:
 
 - State of RL for reasoning
-- autoresearch agents
+- OPSD,GRPO
 - Self Improving systems
 
 ---
