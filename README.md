@@ -13,8 +13,6 @@ Currently working on:
 
 ## Current Projects
 
--  [TSwarm](https://t.prodflow.in/) — Launch Unlimited Terminal inside Canvas and use claude code , Codex , Gemini or any CLI tool.
--  [Lio](https://lio.prodflow.in/) — Run your workspace with voice.
 -  [Phoenix](https://github.com/Sankalpcreat/Phoenix) — Run codex(Openai) remotely for android .
 -  [Slack CLI](https://github.com/Sankalpcreat/Slack-Cli) — Control Slack from your terminal.
 -  [Notion CLI](https://github.com/Sankalpcreat/Notion-CLI) — Manage Notion pages, blocks and databases from Terminal.
