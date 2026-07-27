@@ -1,7 +1,8 @@
 Building Agent and Training System
 
 Currently working on:
-[ActionTheorylab](https://actiontheorylab.com/)- Autonomous cyber model
+
+- [ActionTheorylab](https://actiontheorylab.com/) - Autonomous cyber model
 
 - State of RL for reasoning
 - OPSD,GRPO
