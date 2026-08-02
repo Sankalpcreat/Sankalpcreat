@@ -4,7 +4,7 @@ Currently working on:
 
 - [ActionTheorylab](https://actiontheorylab.com/) - Autonomous cyber model
 
-- State of RL for reasoning
+- Async RL
 - OPSD,GRPO
 - Self Improving systems
 
