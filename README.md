@@ -4,7 +4,7 @@ Currently working on:
 
 - [ActionTheorylab](https://actiontheorylab.com/) - Autonomous cyber model
 
-- Async RL
+- [AutoResearch For Inference](https://github.com/Sankalpcreat/auto-inference-gpu)
 - OPSD,GRPO,RLM
 - Self Improving systems
 
